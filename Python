@@ -1,3 +1,5 @@
 This is a python file. It hacks your pc. :)
 
 // This comment will delete all your files on pc. 
+
+print("Hello World");
